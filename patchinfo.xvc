@@ -1,5 +1,6 @@
 Character\Player\Ani\FIXWEP.RFS 1a71bc7e7eca90e494e7926b6842b9ff022d6bd1
 Character\Player\Ani\RFSInfo.dat 5f7524e481b13b285da87360a2008fd8cbacc71d
+console.ini d9b533c6ae5f2053b509e90a244e79821518f352
 DataTable\Character.edf e703703c648069c512c8c61d0db8bb86ee46aae3
 DataTable\en-gb\CcrLogo.dat 857ceaaa0cbca58d857a887c69944f80c9a2c412
 DataTable\en-gb\NDCharacter.edf 1ead6f103beecd2fc44173c005f8d97893ba9b30
@@ -46,6 +47,7 @@ Map\neutralC\Sky\neutralCsky.r3t 1d22164bce8fa3f6efd4e278dd5f953dfc379767
 Map\neutralC\sky2\neutralCsky2.r3e 5e566c9535bd572ab40551bee2bf101491501754
 Map\neutralC\sky2\neutralCsky2.r3m e8b144b331d60ee1e86afaaf1058d618407e0ed6
 Map\neutralC\sky2\neutralCsky2.r3t e657a3b8d81551aee2e883ba79d1dc2fe35bd5d8
+RFLauncher_Console.exe 1bc05f430a936fab8aadd03139e057932a2b8154
 RF_Online.bin 096996c888b961cc1c42e9a1927d7f5d52eeb50b
 Snd\Bgm\CCRINC.mp4 b385ef74ffd67ac561d4cfff9d58c569f3168bb3
 Snooper\color_desc.txt 603255454b3c95b72819bd3d10dc0116f453c5ef
